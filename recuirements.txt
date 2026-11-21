@@ -1,0 +1,6 @@
+pandas
+nltk
+langdetect
+scikit-learn
+matplotlib
+seaborn
